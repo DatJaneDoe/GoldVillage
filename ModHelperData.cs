@@ -7,8 +7,6 @@ public static class ModHelperData
     public const string Name = "GoldVillage";
 
     public const string Description = "Replicates most vanilla buffs in the game and provides them all at once";
-
-    public const string Icon = "";
     public const string RepoOwner = "DatJaneDoe";
 	
 }
